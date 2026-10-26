@@ -3,3 +3,7 @@ __MACOSX/
 .DS_Store
 node_modules/
 .env
+Job/node_modules/
+Job/.env
+Job/dist/
+Job/.git.backup/
